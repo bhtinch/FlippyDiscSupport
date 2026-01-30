@@ -11,7 +11,10 @@ let package = Package(
     ],
     targets: [
         .target(
-            name: "FlippyDiscSupport"
+            name: "FlippyDiscSupport",
+            resources: [
+                .process("Legal")
+            ]
         )
     ]
 )
