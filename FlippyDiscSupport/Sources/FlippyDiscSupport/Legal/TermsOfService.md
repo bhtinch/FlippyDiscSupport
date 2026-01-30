@@ -1,6 +1,6 @@
 # Terms of Service
 
-**Effective Date**: July 1 2025
+**Effective Date**: January 29, 2026
 
 Welcome to **Flippy Disc** (“we”, “us”, or “our”). These Terms of Service (“Terms”) govern your access to and use of our mobile application and any related services (collectively, the “Service”).
 
@@ -25,13 +25,13 @@ You agree to:
 - Provide accurate and complete information when creating your account or posting listings.
 - Comply with all applicable laws, including those related to the sale of goods.
 - Not post prohibited content, including but not limited to:
-    - illegal items
-    - hate speech
-    - fraudulent content
+    - Illegal items
+    - Hate speech
+    - Fraudulent content
     - Spam
     - Harassment
     - Scams
-    - Inappropriate Images, including but not limited to violence, sexualized content, nudity
+    - Inappropriate images or written content, including but not limited to violence, sexualized content, nudity
 - Resolve disputes directly with other users, without involving **Flippy Disc**.s
 
 ## 4. Prohibited Items

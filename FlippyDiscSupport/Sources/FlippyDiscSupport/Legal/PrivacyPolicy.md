@@ -1,7 +1,7 @@
 # Privacy Policy
 
-**Effective Date:** July 1 2025 
-**Last Updated:** July 1 2025
+**Effective Date:** January 29, 2026 
+**Last Updated:** January 29, 2026
 
 **Flippy Disc** ("we", "us", or "our") respects your privacy and is committed to protecting your personal information. This Privacy Policy explains how we collect, use, and safeguard your data when you use our mobile application and related services (the “Service”).
 
