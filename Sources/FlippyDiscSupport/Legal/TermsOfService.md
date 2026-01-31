@@ -32,7 +32,7 @@ You agree to:
     - Harassment
     - Scams
     - Inappropriate images or written content, including but not limited to violence, sexualized content, nudity
-- Resolve disputes directly with other users, without involving **Flippy Disc**.s
+- Resolve disputes directly with other users, without involving **Flippy Disc**.
 
 ## 4. Prohibited Items
 
