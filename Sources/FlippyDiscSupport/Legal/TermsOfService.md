@@ -1,5 +1,6 @@
 # Terms of Service
 
+**Version:** 2026-01-29
 **Effective Date**: January 29, 2026
 
 Welcome to **Flippy Disc** (“we”, “us”, or “our”). These Terms of Service (“Terms”) govern your access to and use of our mobile application and any related services (collectively, the “Service”).
